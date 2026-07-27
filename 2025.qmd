@@ -1,0 +1,32 @@
+---
+title: "PQPC 2025"
+---
+
+June 26–27, 2025 · UC Davis Center for Mind and Brain, 267 Cousteau Place, Davis, CA
+
+## Thursday, June 26
+
+| Time | Session |
+|---|---|
+| 9:00–9:30 | Introductions |
+| 9:30–11:00 | **Talk Session 1**<br>Klint Kanopka — Data Augmentation for Psychometric Applications Using a Mixed Subjects Design<br>Doria Xiao — When Classes Collapse: Identifiability Failures and Posterior Pathologies in Bayesian Growth Mixture Models<br>Yunting Liu — Using SMIRT model to detect latent DIF |
+| 11:00–11:20 | Coffee Break |
+| 11:20–12:20 | **Journal Club #1 with Drew Bailey**<br>"Illusory traits: Wrong but sometimes useful" — [osf.io/preprints/psyarxiv/rz8h4_v1](https://osf.io/preprints/psyarxiv/rz8h4_v1) |
+| 12:20–1:40 | Lunch (provided) |
+| 1:40–3:10 | **Talk Session 2**<br>Lijin Zhang — A beta mixture model for careless respondent detection in visual analogue scale data<br>Yi Feng — Adaptive Longitudinally-Informed Power Analysis<br>Danielle Siegel — Evaluating the Measurement Structure of Allostatic Load |
+| 3:10–3:30 | Coffee Break |
+| 3:30–5:00 | **Talk Session 3**<br>Dakota Cintron — The Specification and Impact of Prior Distributions for Measurement Invariance Testing of Intensive Longitudinal Data<br>Simran Johal — Relating network-instantiated constructs to psychological outcomes through network-derived metrics: An exploratory study<br>Oscar Olvera Astivia — The multivariate Gaussian framework and its influence on data-generating algorithms for high-dimensional, non-normal data in psychometric research |
+| 5:00 | Après Conference at [Sudwerk Brewing Co.](https://www.sudwerkbrew.com/), 2001 2nd St, Davis, CA |
+
+## Friday, June 27
+
+| Time | Session |
+|---|---|
+| 8:30–9:30 | Informal coffee @ Estelle Bakery and Pâtisserie, 2710 5th St., Davis, CA |
+| 9:30–10:30 | **Journal Club #2 with Rohit Batra**<br>"SimDE App: Simulating and Visualizing Formal Theories Using Differential Equations" — [osf.io/preprints/psyarxiv/sh4e7](https://osf.io/preprints/psyarxiv/sh4e7) |
+| 10:30–10:50 | Coffee Break |
+| 11:00–11:50 | **Talk Session 4**<br>Wanjing Anya Ma — A comparison of the predictive performance of continuous and class-based latent trait models<br>Nick Haber — Generating and evaluating tests for K-12 students with language model simulations: A case study on sentence reading efficiency |
+| 11:50–12:00 | Closing Remarks |
+| 12:00 | Afternoon Activity: Boating on the [California Delta](https://www.nytimes.com/2021/10/03/travel/california-delta-water.html) (details to come) |
+
+*Journal Club = a brief presentation on the paper followed by a longer discussion period. Attendees are encouraged to read the paper in advance.*

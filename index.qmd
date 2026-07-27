@@ -1,0 +1,26 @@
+---
+title: "Home"
+---
+
+# Pacific Quantitative Psych(ometrics) Conference (PQPC)
+
+An informal annual gathering of psychometricians and quantitative methodologists, held at the UC Davis Center for Mind and Brain. Small, talk-driven, and built around a journal club.
+
+**Location:** UC Davis Center for Mind and Brain, 267 Cousteau Place, Davis, CA
+
+**Hosted by:** [Mijke Rhemtulla](https://psychology.ucdavis.edu/people/mijke-rhemtulla) & [Ben Domingue](https://profiles.stanford.edu/benjamin-domingue)
+
+## About
+
+PQPC brings together researchers working on item response theory, cognitive diagnostic models, structural equation modeling, and related quantitative methods across psychology and education. Each meeting is organized around short research talks, an informal journal club discussion, and time built in for conversation between sessions.
+
+The conference is intentionally small and low-key — there's no formal proceedings or conference fee structure beyond covering meals, and the schedule leaves room for coffee, lunch, and an après-conference gathering each day.
+
+## Programs
+
+- [PQPC 2026](2026.qmd) — June 29–30, 2026
+- [PQPC 2025](2025.qmd) — June 26–27, 2025
+
+## Registration & Submissions
+
+Details for the next meeting will be posted here. *(coming soon)*

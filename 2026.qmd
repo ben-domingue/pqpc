@@ -1,0 +1,31 @@
+---
+title: "PQPC 2026"
+---
+
+June 29–30, 2026 · UC Davis Center for Mind and Brain, 267 Cousteau Place, Davis, CA
+
+## Monday, June 29
+
+| Time | Session |
+|---|---|
+| 9:00–9:30 | Introductions |
+| 9:30–12:00 | **Fitting Propensity Workshop / Hackathon**<br>Sonja Winter & Wes Bonifay |
+| 12:00–1:30 | Lunch (provided) |
+| 1:30–3:00 | **Talk Session 1**<br>Madelin Jaregui — Evaluating Class Recovery in Dirichlet Process Latent Growth Models Under Alternative Stick-Breaking Priors<br>Alexandr Ivanov — Modeling Heterogeneous Mediation in Intensive Longitudinal Data: A Finite Mixture DSEM Approach<br>Fred Oswald — Model selection from the Editor's perspective |
+| 3:00–3:30 | Coffee Break |
+| 3:30–4:00 | **Talk Session 2**<br>Jared Block — Using Projective Item Response Theory (PIRT) to Evaluate the Applied Consequences of Misspecified Unidimensional Models |
+| 4:00–5:00 | **Journal Club**<br>Partsch, M. V. & Goretzko, D. (2026). "Detecting Model Misfit in Structural Equation Modeling with Machine Learning — A Proof of Concept." *Multivariate Behavioral Research.* |
+| 5:00 | Après Conference at Tres Hermanas, 805 2nd St, Davis, CA |
+
+## Tuesday, June 30
+
+| Time | Session |
+|---|---|
+| 8:30–9:30 | Informal coffee @ Estelle Bakery and Pâtisserie, 2710 5th St., Davis, CA |
+| 9:30–10:30 | **Talk Session 4**<br>Alex Blum — Investigating the Competitiveness of Answer Choices in ROAR-Vocabulary: How much do test-design features in a multiple-choice vocabulary assessment impact item difficulty?<br>Marwin Carmo — Modeling choices as inferential decisions: An illustration using Bayesian Graphical Models |
+| 10:30–11:00 | Coffee Break |
+| 11:00–12:00 | **Journal Club**<br>Scarlatos, A., Fernandez, N., Ormerod, C., Lottridge, S., & Lan, A. (2025, November). "SMART: Simulated students aligned with item response theory for question difficulty prediction." In *Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing* (pp. 25082–25105). |
+| 12:00 | Closing Remarks |
+| 12:00 | Après Conference at Ruhstaller Farm, 6686 Sievers Rd, Dixon, CA |
+
+*Journal Club = a brief presentation on the paper followed by a longer discussion period. Attendees are encouraged to read the paper in advance.*

@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "PQPC"
+  description: >-
+    An informal West Coast gathering for quantitative and psychometric
+    methods researchers, hosted at the UC Davis Center for Mind and Brain.
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: 2026.qmd
+        text: "2026"
+      - href: 2025.qmd
+        text: "2025"
+
+format:
+  html:
+    theme: cosmo
+    toc: false
